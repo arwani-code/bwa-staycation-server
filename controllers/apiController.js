@@ -100,7 +100,7 @@ module.exports = {
 
       res.status(200).json({ ...item._doc, bank, testimonial });
     } catch (error) {
-      res.status(404).json({ msg: "internal server error" });
+      res.status(404).json({ msg: "internal server error", error });
     }
   },
 
