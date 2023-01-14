@@ -1,5 +1,3 @@
-<h2 align="center">Kelas Online Premium</h2>
-
 <h1 align="center">Membuat Website Mencari Kosan/Hotel/Apartment dengan MERN Stack</h1>
 
 
